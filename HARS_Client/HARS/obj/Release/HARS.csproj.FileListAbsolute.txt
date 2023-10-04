@@ -1,0 +1,10 @@
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\bin\Release\HARS.exe.config
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\bin\Release\HARS.exe
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\bin\Release\HARS.pdb
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\obj\Release\HARS.csproj.AssemblyReference.cache
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\obj\Release\HARS.Main.resources
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\obj\Release\HARS.Properties.Resources.resources
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\obj\Release\HARS.csproj.GenerateResource.cache
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\obj\Release\HARS.csproj.CoreCompileInputs.cache
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\obj\Release\HARS.exe
+C:\Users\spada\Source\Repos\Http-Asynchronous-Reverse-Shell\HARS_Client\HARS\obj\Release\HARS.pdb
